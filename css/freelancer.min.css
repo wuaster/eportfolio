@@ -446,7 +446,7 @@ form .row:first-child .floating-label-form-group {
 
 footer {
     color: #fff;
-    height: 100vh;
+    height: 10vh;
     scroll-snap-align: start;
 }
 
@@ -632,6 +632,7 @@ fieldset[disabled] .btn-success:hover {
     text-align: center;
     font-size: 20px;
     line-height: 45px
+    padding-top: 12px;
 }
 
 .btn.active,

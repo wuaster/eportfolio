@@ -428,6 +428,7 @@ fieldset[disabled] .btn-success.active {
   text-align: center;
   font-size: 20px;
   line-height: 45px;
+  padding-top: 12px;
 }
 .btn:focus,
 .btn:active,
